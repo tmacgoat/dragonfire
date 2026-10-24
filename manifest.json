@@ -1,0 +1,16 @@
+{
+  "name": "Dragonfire: Dani's Reign",
+  "short_name": "Dragonfire",
+  "description": "Ride your dragon, breathe fire, rule the skies. A twin-stick arcade shooter starring Dani.",
+  "start_url": "./",
+  "scope": "./",
+  "id": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#070304",
+  "theme_color": "#070304",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
